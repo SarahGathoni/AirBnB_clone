@@ -1,7 +1,9 @@
-##**Description**
+**Description**  
+
 This is a clone of the AIRBnB web application which consists of of a custom command-line interface for data management, and the base classes for the storage of this data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
-##Usage
+**Usage**
+
 The console works both in interactive mode and non-interactive mode, much like a Unix shell. It prints a prompt (hbnb) and waits for the user for input.
 Command	Example
 
@@ -34,7 +36,8 @@ Documented commands (type help <topic>):
 
 EOF  all  count  create  destroy  help  quit  sh
 
-#File Storage#
+**File Storage**
+
 The folder engine manages the serialization and deserialization of all the data, following a JSON format.
 
 
@@ -50,4 +53,5 @@ All the code is tested with the unittest module. The test for the classes are in
 
 <strong>Authors<strong><br>
 Sarafina Wanjiku Gathoni <sarah.wanjiku.gathoni@gmail.com>
+
 Karabo Dikolomela
