@@ -1,4 +1,4 @@
-##Description
+##**Description**
 This is a clone of the AIRBnB web application which consists of of a custom command-line interface for data management, and the base classes for the storage of this data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
 ##Usage
