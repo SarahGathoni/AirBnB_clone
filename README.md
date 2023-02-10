@@ -32,9 +32,9 @@ Documented commands (type help <topic>):
 
 ========================================
 
-EOF  all  count  create  destroy  help  quit  show  update
+EOF  all  count  create  destroy  help  quit  sh
 
-##File Storage
+#File Storage#
 The folder engine manages the serialization and deserialization of all the data, following a JSON format.
 
 
